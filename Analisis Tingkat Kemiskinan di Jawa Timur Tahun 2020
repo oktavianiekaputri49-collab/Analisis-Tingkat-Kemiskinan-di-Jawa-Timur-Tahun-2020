@@ -1,0 +1,87 @@
+📊 Analisis Tingkat Kemiskinan di Jawa Timur Tahun 2020
+Deskripsi Project:
+Project ini membahas analisis tingkat kemiskinan kabupaten/kota di Jawa Timur tahun 2020 menggunakan data dari Badan Pusat Statistik (BPS).
+Analisis dilakukan untuk memahami kondisi kemiskinan di berbagai wilayah serta mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah berdasarkan persentase penduduk miskin.
+
+Tujuan Project:
+Menganalisis tingkat kemiskinan di Jawa Timur tahun 2020
+Membandingkan kondisi kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah
+Menyajikan data dalam bentuk tabel dan grafik
+Melatih kemampuan analisis data menggunakan Microsoft Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Timur 2020
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Persentase Kemiskinan
+Ranking Daerah
+Rata-rata Kemiskinan
+Data 5 Daerah Tertinggi
+Data 5 Daerah Terendah
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Pengurutan data (sorting)
+Ranking data
+Perhitungan rata-rata
+Analisis nilai tertinggi dan terendah
+Penyajian grafik
+Interpretasi hasil analisis
+Tahapan Pengolahan Data
+Mengumpulkan data kemiskinan dari BPS Jawa Timur
+Menginput data ke Microsoft Excel
+Mengurutkan data berdasarkan persentase kemiskinan
+Menentukan ranking setiap kabupaten/kota
+Menghitung rata-rata tingkat kemiskinan
+Membuat grafik 5 daerah dengan tingkat kemiskinan tertinggi
+Membuat grafik 5 daerah dengan tingkat kemiskinan terendah
+Menyusun interpretasi hasil analisis
+
+Hasil Analisis:
+5 Kabupaten/Kota dengan Tingkat Kemiskinan Tertinggi
+Ranking	Kabupaten/Kota	Persentase (%)
+1	Sampang	22,78
+2	Bangkalan	20,56
+3	Sumenep	20,18
+4	Probolinggo	18,61
+5	Tuban	15,91
+5 Kabupaten/Kota dengan Tingkat Kemiskinan Terendah
+Ranking	Kabupaten/Kota	Persentase (%)
+34	Sidoarjo	5,59
+35	Surabaya	5,02
+36	Kota Madiun	4,98
+37	Kota Malang	4,44
+38	Kota Batu	3,89
+Temuan Utama
+Kabupaten Sampang memiliki tingkat kemiskinan tertinggi di Jawa Timur tahun 2020 sebesar 22,78%.
+Kabupaten Bangkalan dan Sumenep juga menunjukkan tingkat kemiskinan yang tinggi, yaitu di atas 20%.
+Kota Batu memiliki tingkat kemiskinan terendah sebesar 3,89%.
+Kota Malang dan Kota Madiun termasuk daerah dengan tingkat kemiskinan rendah dibandingkan wilayah lainnya.
+Rata-rata tingkat kemiskinan Jawa Timur berada pada angka 11,02%.
+Terdapat kesenjjangan yang cukup besar antara daerah dengan tingkat kemiskinan tertinggi dan terendah, yang menunjukkan adanya perbedaan kondisi sosial ekonomi antar wilayah.
+
+Kesimpulan:
+Analisis menunjukkan bahwa tingkat kemiskinan di Jawa Timur tahun 2020 masih bervariasi antar kabupaten/kota. Daerah di wilayah Madura mendominasi kelompok dengan tingkat kemiskinan tertinggi, sedangkan kota-kota besar cenderung memiliki tingkat kemiskinan yang lebih rendah. Hasil ini menunjukkan pentingnya pemerataan pembangunan dan peningkatan kesejahteraan masyarakat di seluruh wilayah Jawa Timur.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Microsoft Excel
+Data Visualization
+Ranking Analysis
+Interpretasi Data
+Analisis Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
+
+#Data Analysis #Statistics #Microsoft Excel #BPS Kemiskinan Jawa Timur #Data Visualization #Portfolio Project
