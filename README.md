@@ -1,0 +1,2 @@
+# Analisis-Tingkat-Kemiskinan-di-Jawa-Timur-Tahun-2020
+Project ini membahas analisis data kemiskinan kabupaten/kota di Jawa Timur tahun 2020 menggunakan data dari Badan Pusat Statistik (BPS). Analisis dilakukan untuk memahami kondisi kemiskinan antar wilayah, mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah, serta melihat perbedaan tingkat kesejahteraan masyarakat di Jawa Timur.
